@@ -121,9 +121,6 @@ clientes y proveedores. Soporte ES/EN.
 
 <div align="center">
 
-<img height="165" src="./profile/stats.svg" />
-<img height="165" src="./profile/top-langs.svg" />
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=juanchiappa&theme=tokyonight&hide_border=true" />
 
 </div>
